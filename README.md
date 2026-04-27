@@ -32,3 +32,39 @@ The dataset includes retail transactions with the following features:
 ### Outlier Treatment
 - Identified using IQR method
 - Extreme Unit Price and Sales values were capped
+
+## Exploratory Data Analysis (EDA)
+### Sales Trends
+- Revenue trends over time
+- Peak sales periods identified
+### Product Performance
+- Top categories by revenue
+- Most purchased products
+### Customer Insights
+- Age group spending behavior
+- Gender-based analysis
+- City-wise revenue contribution
+### Payment Behavior
+- Distribution of payment methods
+- Transaction value comparison
+### Customer Segmentation
+- High-value customers identified
+- Loyalty score analysis
+
+## Key Performance Indicators (KPIs)
+- Total Revenue
+- Total Orders
+- Average Order Value (AOV)
+- Total Quantity Sold
+- Unique Customers
+
+## Interactive HTML Dashboard
+The project includes a fully interactive HTML dashboard with embedded visualizations.
+
+### Dashboard Features
+#### KPI Cards
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Total Customers
+
