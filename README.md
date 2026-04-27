@@ -7,8 +7,8 @@ It combines data cleaning, exploratory data analysis (EDA), and an interactive H
 The goal is to transform raw data into actionable business insights using a web-based dashboard.
 
 ## Business Objectives
-Analyze sales performance over time
-Identify top-performing products and categories
-Understand customer purchasing behavior
-Evaluate revenue distribution across cities
-Segment customers based on income and loyalty
+- Analyze sales performance over time
+- Identify top-performing products and categories
+- Understand customer purchasing behavior
+- Evaluate revenue distribution across cities
+- Segment customers based on income and loyalty
