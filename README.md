@@ -21,4 +21,4 @@ The dataset includes retail transactions with the following features:
 - Product data (Category, Product Name, Quantity, Price)
 - Financial metrics (Total Sales)
 - Behavioral attributes (Payment Method, Income Level, Loyalty Score)
-- <a href="">
+- <a href="https://github.com/Makamarudeen4/Data-Analysis-Dashboard-EDA/blob/main/Retail%20EDA.xlsx">Dataset<a/>
