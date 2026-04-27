@@ -22,3 +22,13 @@ The dataset includes retail transactions with the following features:
 - Financial metrics (Total Sales)
 - Behavioral attributes (Payment Method, Income Level, Loyalty Score)
 - <a href="https://github.com/Makamarudeen4/Data-Analysis-Dashboard-EDA/blob/main/Retail%20EDA.xlsx">Dataset<a/>
+
+## Data Cleaning & Preparation
+### Missing Values Handling
+- Age → filled with median
+- City → filled with mode or “Unknown”
+- Product Name → inferred or cleaned
+- Payment Method → filled with mode
+### Outlier Treatment
+- Identified using IQR method
+- Extreme Unit Price and Sales values were capped
