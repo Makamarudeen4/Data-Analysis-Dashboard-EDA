@@ -26,8 +26,8 @@ The dataset includes retail transactions with the following features:
 ## Data Cleaning & Preparation
 ### Missing Values Handling
 - Age → filled with median
-- City → filled with mode or “Unknown”
-- Product Name → inferred or cleaned
+- City → filled with mode 
+- Product Name → inferred
 - Payment Method → filled with mode
 ### Outlier Treatment
 - Identified using IQR method
