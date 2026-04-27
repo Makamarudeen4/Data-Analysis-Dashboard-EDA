@@ -12,3 +12,4 @@ The goal is to transform raw data into actionable business insights using a web-
 - Understand customer purchasing behavior
 - Evaluate revenue distribution across cities
 - Segment customers based on income and loyalty
+
