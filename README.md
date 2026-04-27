@@ -56,13 +56,13 @@ The goal is to transform raw data into actionable business insights using a web-
 The project includes a fully interactive HTML dashboard with embedded visualizations.
 - <a href="https://github.com/Makamarudeen4/Data-Analysis-Dashboard-EDA/blob/main/Dashboard%201.jpeg">DashBoard<a/>
 
-
 ### Dashboard Features
 #### KPI Cards
 - Total Revenue
 - Total Orders
 - Average Order Value
 - Total Customers
+<img width="1360" height="603" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a60790c7-92e2-4825-b5c0-aed14cd0de4b" />
 
 ## Key Insights
 - Electronics generated the highest revenue due to high unit price products
@@ -91,5 +91,4 @@ The project includes a fully interactive HTML dashboard with embedded visualizat
 - JavaScript (Interactivity, if used)
 - Excel (Data Cleaning)
 
-<img width="1360" height="603" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a60790c7-92e2-4825-b5c0-aed14cd0de4b" />
 
