@@ -13,3 +13,12 @@ The goal is to transform raw data into actionable business insights using a web-
 - Evaluate revenue distribution across cities
 - Segment customers based on income and loyalty
 
+## Dataset Overview
+
+The dataset includes retail transactions with the following features:
+- Order details (Order ID, Date)
+- Customer information (Gender, Age, City)
+- Product data (Category, Product Name, Quantity, Price)
+- Financial metrics (Total Sales)
+- Behavioral attributes (Payment Method, Income Level, Loyalty Score)
+- <a href="">
