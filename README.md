@@ -70,5 +70,32 @@ The project includes a fully interactive HTML dashboard with embedded visualizat
 - Average Order Value
 - Total Customers
 
+## Key Insights
+- Electronics generated the highest revenue due to high unit price products
+- Groceries had the highest purchase frequency but lower revenue per order
+- Lagos and Abuja contributed the highest total sales
+- Customers aged 26–35 are the highest spending group
+- High-income customers drive a significant portion of revenue
+- Card payments are more common for high-value transactions
 
+## Business Conclusions
+- Revenue is strongly driven by premium product categories
+- Customer demographics significantly influence spending behavior
+- Geographic location is a key driver of sales performance
+- Loyalty score is positively associated with higher spending
+
+## Recommendations
+- Focus marketing on high-income and loyal customer segments
+- Expand product offerings in high-performing categories (Electronics)
+- Improve sales strategies in underperforming cities
+- Introduce customer loyalty reward programs
+- Optimize pricing strategy for mid-tier customers
+
+## Tools & Technologies
+- HTML (Dashboard Development)
+- CSS (Styling & Layout)
+- JavaScript (Interactivity, if used)
+- Excel (Data Cleaning)
+
+<img width="1360" height="603" alt="Dashboard 1" src="https://github.com/user-attachments/assets/a60790c7-92e2-4825-b5c0-aed14cd0de4b" />
 
