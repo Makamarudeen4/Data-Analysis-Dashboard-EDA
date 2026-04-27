@@ -60,6 +60,8 @@ The dataset includes retail transactions with the following features:
 
 ## Interactive HTML Dashboard
 The project includes a fully interactive HTML dashboard with embedded visualizations.
+- <a href="https://github.com/Makamarudeen4/Data-Analysis-Dashboard-EDA/blob/main/Retail%20EDA.xlsx">Dataset<a/>
+
 
 ### Dashboard Features
 #### KPI Cards
@@ -67,4 +69,6 @@ The project includes a fully interactive HTML dashboard with embedded visualizat
 - Total Orders
 - Average Order Value
 - Total Customers
+
+
 
