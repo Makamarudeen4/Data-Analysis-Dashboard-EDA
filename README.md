@@ -1,2 +1,7 @@
-# Data-Analysis-Dashboard-EDA
-In this project, I worked with retail sales data to understand customer behavior, see which products perform best, and identify revenue trends, all to help improve sales strategies and better target customers.
+# Retail Sales Data Analysis Dashboard (HTML + EDA Project)
+## Project Overview
+
+This project is an end-to-end retail sales analysis built using a dataset of 1,200+ transactions.
+It combines data cleaning, exploratory data analysis (EDA), and an interactive HTML dashboard to uncover insights into customer behavior, product performance, and sales trends.
+
+The goal is to transform raw data into actionable business insights using a web-based dashboard.
