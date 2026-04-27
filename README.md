@@ -15,12 +15,6 @@ The goal is to transform raw data into actionable business insights using a web-
 
 ## Dataset Overview
 
-The dataset includes retail transactions with the following features:
-- Order details (Order ID, Date)
-- Customer information (Gender, Age, City)
-- Product data (Category, Product Name, Quantity, Price)
-- Financial metrics (Total Sales)
-- Behavioral attributes (Payment Method, Income Level, Loyalty Score)
 - <a href="https://github.com/Makamarudeen4/Data-Analysis-Dashboard-EDA/blob/main/Retail%20EDA.xlsx">Dataset<a/>
 
 ## Data Cleaning & Preparation
