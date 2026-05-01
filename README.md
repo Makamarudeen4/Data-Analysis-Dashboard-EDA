@@ -87,8 +87,8 @@ The project includes a fully interactive HTML dashboard with embedded visualizat
 
 ## Tools & Technologies
 - HTML (Dashboard Development)
-- CSS (Styling & Layout)
-- JavaScript (Interactivity, if used)
+- CSS 
+- JavaScript 
 - Excel (Data Cleaning)
 
 
