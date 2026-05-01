@@ -85,7 +85,7 @@ The project includes a fully interactive HTML dashboard with embedded visualizat
 - Introduce customer loyalty reward programs
 - Optimize pricing strategy for mid-tier customers
 
-## Tools & Technologies
+## Tools
 - HTML (Dashboard Development)
 - CSS 
 - JavaScript 
